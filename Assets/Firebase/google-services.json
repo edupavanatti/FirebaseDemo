@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "596954694166",
+    "firebase_url": "https://fir-sample-project-2a05d-default-rtdb.firebaseio.com",
+    "project_id": "fir-sample-project-2a05d",
+    "storage_bucket": "fir-sample-project-2a05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596954694166:android:2e44185b36e5450f832b37",
+        "android_client_info": {
+          "package_name": "com.eduardopavanatti.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596954694166-hqgu7n46g2s0o22rt00rrqtnc88brek4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsI9veygpI1nkgPYF7wzApR54pmleSdzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596954694166-hqgu7n46g2s0o22rt00rrqtnc88brek4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
